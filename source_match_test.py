@@ -13,7 +13,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-Tests for google3.video.youtube.testing.tools.ast_refactor.source_match.
+Tests for source_match.py
 """
 
 import unittest
