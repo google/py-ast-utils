@@ -25,3 +25,5 @@ formatting) or nodes are removed.
 
 2. create_node.py: This module contains a bunch of functions for creating
 nodes with reasonable defaults.
+
+NOTE: This is not an official Google project!
